@@ -1,3 +1,3 @@
-#* Pro player em Minecraft
+# Pro player em Minecraft
 ## say my name
 
