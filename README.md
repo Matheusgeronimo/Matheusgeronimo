@@ -6,5 +6,6 @@
 <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-<img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+<img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+# <b>SOU FAN DE:</b>
+<img height= width src="https://raw.githubusercontent.com/Matheusgeronimo/Matheusgeronimo/main/321606308_3496090677301832_8430175518580223779_n.webp">
