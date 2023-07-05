@@ -9,4 +9,12 @@
     <img src="https://komarev.com/ghpvc/?username=Matheusgeronimo&color=blue&style=flat)" />
    
   </a>
+<div align="center"/>
+
+# Produzindo um jogo - Equipe ↴ 
+## ┃ https://github.com/RamonTurek┃
+</div>
+
+
+  
 </p>
