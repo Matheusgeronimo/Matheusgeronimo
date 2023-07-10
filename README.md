@@ -12,7 +12,7 @@
 <div align="center"/>
 
 # Produzindo um jogo - Equipe ↴ 
-## ┃ https://github.com/RamonTurek┃
+##  https://github.com/RamonTurek
 </div>
 
 
